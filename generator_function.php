@@ -1,6 +1,4 @@
 <?php
-// Генератор
-
  function generator($lines){
  	for($i = 0; $i < count($lines); $i++) {
  		$string[$i] = explode(" ", $lines[$i]);

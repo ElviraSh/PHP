@@ -1,4 +1,5 @@
 <?php
+
 function json($lines ){
     for ($i=0; $i < strlen($lines[$i]); $i++) {
         $line_weight = intval($lines[$i][strlen($strLine)-1]);

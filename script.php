@@ -1,4 +1,5 @@
 <?php
+
 include 'json_function.php';
 include 'generator_function.php';
 $inputLines = $_GET['text'];
